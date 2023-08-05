@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GSR07
-- 👀 I’m interested in robotics.
-- 🌱 I’m currently learning automation and robotics.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m robotics engineer.
+- 🌱 I’m currently learning full stack development.
+- 💞️ I’m looking to collaborate on web development.
 - 📫 How to reach me ...
 
 <!---
